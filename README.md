@@ -1,3 +1,3 @@
-# A Practical Introduction to Go
+# Go: A Practical Introduction
 
 ## Learn Go by building _real_ software.
